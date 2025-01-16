@@ -29,7 +29,10 @@ pip install -r ecfwwork\zephyr_fork\scripts\requirements.txt
 
 
 ### Apply patch
-```
+```bash
+cd ecfwwork/zephyr_fork  
+
+git am ../../nvec_mec172x/zephyr_patches/patches_v3_2.patch
 ```
 
 ## Build
