@@ -1,0 +1,10 @@
+# Specify filepatterns you want git to ignore.
+
+# pyenv
+.venv
+
+# west config
+.west
+
+# code from west
+ecfwwork
