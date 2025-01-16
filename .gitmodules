@@ -1,0 +1,3 @@
+[submodule "nvec_mec172x.git"]
+	path = nvec_mec172x
+	url = https://github.com/MicrochipTech/nvec_mec172x.git
