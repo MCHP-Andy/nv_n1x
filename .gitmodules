@@ -1,0 +1,6 @@
+[submodule "nvec_mec172x.git"]
+	path = nvec_mec172x
+	url = https://github.com/MicrochipTech/nvec_mec172x.git
+[submodule "CPGZephyrDocs.git"]
+	path = tools/spi_gen
+	url = https://github.com/MicrochipTech/CPGZephyrDocs.git
