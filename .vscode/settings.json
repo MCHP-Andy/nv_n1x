@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "kconfig": "cpp",
+        "pmic_ctrl.h": "c",
+        "kernel_structs.h": "c",
+        "init.h": "c",
+        "vci.h": "c",
+        "log.h": "c",
+        "mec172x_pin.h": "c",
+        "gpio_ec.h": "c",
+        "board_config.h": "c",
+        "board.h": "c",
+        "mecc1723_n1x_m_p.h": "c",
+        "errno.h": "c",
+        "acpi.h": "c",
+        "pwr_err_status.h": "c",
+        "charger.h": "c"
+    }
+}
