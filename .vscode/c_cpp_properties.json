@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "forcedInclude": ["${workspaceFolder}/nvec_mec172x/build/zephyr/include/generated/autoconf.h"]
+        }
+    ],
+    "version": 4
+}
